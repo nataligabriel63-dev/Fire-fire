@@ -1,0 +1,6 @@
+{
+  "name": "Ceifador Sensi FF",
+  "description": "Calculadora e otimizador profissional de sensibilidade para armas do Free Fire com controle granular de miras, DPI e taxa de polling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
